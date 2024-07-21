@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/ee690542-cf37-4de9-97e7-2876d5e6294c)">
-"
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-rashid-940348282) 

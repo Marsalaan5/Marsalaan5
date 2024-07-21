@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/ee690542-cf37-4de9-97e7-2876d5e6294c)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/ee690542-cf37-4de9-97e7-2876d5e6294c.gif)">
 
 
 ## 🌐 Socials:

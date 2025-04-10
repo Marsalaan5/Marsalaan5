@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rashid</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p>Versatile Full-Stack Developer with a strong foundation in HTML, CSS, and JavaScript, and advanced expertise in React, Redux, and Node.js. I bring a proven track record of creating dynamic and responsive web applications using modern frameworks and libraries, including Bootstrap, Tailwind CSS, and Sass. My technical proficiency extends to back-end development with Express.js, and I am adept at working with databases such as MySql,MariaDB, MongoDB and Mongoose. I also have experience with Python for scripting and automation tasks, enhancing my capability to tackle a wide range of projects.
+<p>Versatile Full-Stack Developer with a strong foundation in HTML, CSS, and JavaScript, and advanced expertise in React, Redux, and Node.js. I have a proven track record of building dynamic, responsive web applications using modern libraries and frameworks such as Bootstrap, Tailwind CSS, Sass, and Material UI.
+On the front end, I specialize in crafting seamless user experiences with reusable components and optimized performance. On the back end, I’m proficient in developing robust APIs using Express.js, with experience managing both relational and non-relational databases including MySQL, MariaDB, MongoDB, and Mongoose.
+Additionally, I leverage Python for scripting and automation, expanding my ability to handle a wide range of development and data-related tasks. Passionate about clean code and scalable architecture, I thrive in collaborative environments and enjoy tackling challenging problems.
+
+
 
 </p>
 
